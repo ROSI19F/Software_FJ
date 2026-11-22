@@ -1,0 +1,33 @@
+# Software FJ
+
+## Sistema Integral de Gestión de Clientes, Servicios y Reservas
+
+Este proyecto se desarrolla para la empresa Software FJ y tiene como finalidad implementar un sistema que permita gestionar clientes, servicios y reservas utilizando el lenguaje de programación Python.
+
+## Objetivo
+
+Desarrollar una aplicación orientada a objetos que permita administrar clientes, servicios y reservas, implementando validaciones y manejo de excepciones para garantizar el correcto funcionamiento del sistema.
+
+## Funcionalidades
+
+- Registro y validación de clientes.
+- Gestión de servicios.
+- Reservas y cancelaciones.
+- Confirmación de reservas.
+- Cálculo de costos, descuentos e impuestos.
+- Manejo de excepciones.
+- Registro de eventos y errores mediante archivos de logs.
+
+## Tecnologías utilizadas
+
+- Python
+- GitHub
+- Programación orientada a objetos
+
+## Autores
+
+Proyecto colaborativo del curso Programación 213023 de la Universidad Nacional Abierta y a Distancia (UNAD).
+
+## Proyecto académico
+
+Fase 4 - Prácticas simuladas.
